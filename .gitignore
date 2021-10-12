@@ -75,6 +75,12 @@ fabric.properties
 
 venv/
 
+Web/model/checkpoint/
+
+Web/model/data/
+
+Web/model/data/output/
+
 .env
 
 db.sqlite3
