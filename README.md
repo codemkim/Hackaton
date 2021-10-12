@@ -10,4 +10,4 @@ Model: 곽수연, 곽희원
 
 ***
 
-Reference: [AliaksandrSiarohin](https://github.com/AliaksandrSiarohin/first-order-model)
+Reference: [AliaksandrSiarohin](https://github.com/AliaksandrSiarohin/first-order-model) [LeadsheetArrangement](https://github.com/liuhaumin/LeadsheetArrangement)
