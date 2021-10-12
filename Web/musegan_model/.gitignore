@@ -1,0 +1,5 @@
+*.npy
+*.mid
+*.ckpt
+*.png
+__pycache__/
