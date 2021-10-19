@@ -14,6 +14,9 @@ Model: 곽수연, 곽희원
 
 ---
 
+## WE WON THE 1ST PRIZE AT THE HACKATON
+
+![해커톤수상팀명단](https://user-images.githubusercontent.com/81952911/137890117-36bb48c9-6666-4941-959f-9bdc1f5308b8.png)
 
 
 Reference: [First-Order-Motion-Model(AliaksandrSiarohin)](https://github.com/AliaksandrSiarohin/first-order-model), [Musegan(LeadsheetArrangement)](https://github.com/liuhaumin/LeadsheetArrangement), [Web(youtube-jocoding)](https://github.com/youtube-jocoding/animalface)
